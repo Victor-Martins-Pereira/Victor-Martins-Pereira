@@ -1,20 +1,19 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+ Olá, eu sou o Victor Martins! Atualmente, estou focado em aprimorar minhas habilidades em programação e desenvolvimento de software.
+  Além de estudar, também estou trabalhando em projetos pessoais para ganhar mais experiência prática. Estou sempre em busca de aprender mais e me desafiar em novas áreas!
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+  🦄 Linguagens: JavaScript, C++
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
-</p>
+</p> 
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Entre em contato: ⤵️
 </p>
 
 <p align="left">
